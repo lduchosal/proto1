@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_protoactor1.-2127028500.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="protoactor1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleReaderActor.cs" t="Include" />
+        <e p="ConsoleWriterActor.cs" t="Include" />
+        <e p="HelloActor.cs" t="Include" />
+        <e p="Message" t="Include">
+          <e p="Hello.cs" t="Include" />
+          <e p="Quit.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="protoactor1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="protoactor1.csproj" t="IncludeRecursive" />
+        <e p="QuitActor.cs" t="Include" />
+      </e>
+      <e p="protoactor1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

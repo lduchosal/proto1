@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "protoactor1", "protoactor1\protoactor1.csproj", "{1A3B31E7-A161-40A7-BA9B-2E3E22ADFC13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3B31E7-A161-40A7-BA9B-2E3E22ADFC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3B31E7-A161-40A7-BA9B-2E3E22ADFC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3B31E7-A161-40A7-BA9B-2E3E22ADFC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3B31E7-A161-40A7-BA9B-2E3E22ADFC13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
