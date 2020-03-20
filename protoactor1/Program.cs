@@ -48,7 +48,7 @@ namespace protoactor1
 
         public void Debug(string msg)
         {
-            _sb.AppendLine(msg);
+            Console.WriteLine(msg);
         }
     }
 }
